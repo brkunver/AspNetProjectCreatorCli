@@ -26,7 +26,7 @@ public class ReactAspPrompts
     .Title("Install Tailwind CSS?")
     .PageSize(3)
     .MoreChoicesText("[grey](Move up and down to reveal more)[/]")
-   .AddChoices([true, false]));
+    .AddChoices([true, false]));
 
     if (installTailwindcss)
     {

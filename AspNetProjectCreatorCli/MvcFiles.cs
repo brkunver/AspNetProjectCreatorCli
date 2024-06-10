@@ -23,4 +23,56 @@ public static class MvcFiles
 </html>";
   }
 
+  public static string GetIndexHtml()
+  {
+
+    string newContent = @"
+@{
+    ViewData[""Title""] = ""Home Page"";
+}
+
+<div class=""grid place-content-center"">
+    <h1>Hello!</h1>
+</div>
+";
+
+    return newContent;
+  }
+
+  public static string GetViewImports(string projectName)
+  {
+    string newContent = @"
+@using " + projectName + @"
+@addTagHelper *, Microsoft.AspNetCore.Mvc.TagHelpers
+";
+
+    return newContent;
+  }
+
+  public static string GetHomeController(string projectName)
+  {
+    string newContent = $@"
+using Microsoft.AspNetCore.Mvc;
+
+namespace {projectName}.Controllers
+{{
+    public class HomeController : Controller
+    {{
+        public HomeController()
+        {{
+
+        }}
+
+        public IActionResult Index()
+        {{
+            return View();
+        }}
+    }}
+}}
+";
+
+    return newContent;
+  }
+
+
 }
