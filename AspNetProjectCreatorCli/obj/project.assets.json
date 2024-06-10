@@ -48,7 +48,7 @@
     "C:\\Users\\burak\\.nuget\\packages\\": {}
   },
   "project": {
-    "version": "0.0.2",
+    "version": "0.1.0",
     "restore": {
       "projectUniqueName": "C:\\Users\\burak\\Desktop\\projects\\AspNetProjectCreatorCli\\AspNetProjectCreatorCli\\AspNetProjectCreatorCli.csproj",
       "projectName": "AspNetProjectCreatorCli",
