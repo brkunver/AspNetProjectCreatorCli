@@ -56,8 +56,8 @@ public static class CreateCommand
             var indexContent = MvcFiles.GetIndexHtml();
             File.WriteAllText(homeFilePath, indexContent);
 
-            // Create _ViewImports.cshtml file
-            var viewImportsFilePath = Path.Combine(sharedFolderPath, "_ViewImports.cshtml");
+            // Clear _ViewImports.cshtml file
+            var viewImportsFilePath = Path.Combine(projectPath, "Views", "_ViewImports.cshtml");
             var viewImportsContent = MvcFiles.GetViewImports(projectName);
             File.WriteAllText(viewImportsFilePath, viewImportsContent);
 
@@ -74,10 +74,10 @@ public static class CreateCommand
             var libFolderPath = Path.Combine(projectPath, "wwwroot", "lib");
             if (Directory.Exists(libFolderPath))
             {
-                var files = Directory.GetFiles(libFolderPath);
-                foreach (var file in files)
+                var directories = Directory.GetDirectories(libFolderPath);
+                foreach (var directory in directories)
                 {
-                    File.Delete(file);
+                    Directory.Delete(directory);
                 }
             }
 
