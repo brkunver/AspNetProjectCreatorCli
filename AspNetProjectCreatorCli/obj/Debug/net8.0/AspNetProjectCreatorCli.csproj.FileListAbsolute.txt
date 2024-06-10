@@ -1,0 +1,17 @@
+C:\Users\burak\Desktop\projects\AspNetProjectCreatorCli\AspNetProjectCreatorCli\bin\Debug\net8.0\AspNetProjectCreatorCli.exe
+C:\Users\burak\Desktop\projects\AspNetProjectCreatorCli\AspNetProjectCreatorCli\bin\Debug\net8.0\AspNetProjectCreatorCli.deps.json
+C:\Users\burak\Desktop\projects\AspNetProjectCreatorCli\AspNetProjectCreatorCli\bin\Debug\net8.0\AspNetProjectCreatorCli.runtimeconfig.json
+C:\Users\burak\Desktop\projects\AspNetProjectCreatorCli\AspNetProjectCreatorCli\bin\Debug\net8.0\AspNetProjectCreatorCli.dll
+C:\Users\burak\Desktop\projects\AspNetProjectCreatorCli\AspNetProjectCreatorCli\bin\Debug\net8.0\AspNetProjectCreatorCli.pdb
+C:\Users\burak\Desktop\projects\AspNetProjectCreatorCli\AspNetProjectCreatorCli\obj\Debug\net8.0\AspNetProjectCreatorCli.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\burak\Desktop\projects\AspNetProjectCreatorCli\AspNetProjectCreatorCli\obj\Debug\net8.0\AspNetProjectCreatorCli.AssemblyInfoInputs.cache
+C:\Users\burak\Desktop\projects\AspNetProjectCreatorCli\AspNetProjectCreatorCli\obj\Debug\net8.0\AspNetProjectCreatorCli.AssemblyInfo.cs
+C:\Users\burak\Desktop\projects\AspNetProjectCreatorCli\AspNetProjectCreatorCli\obj\Debug\net8.0\AspNetProjectCreatorCli.csproj.CoreCompileInputs.cache
+C:\Users\burak\Desktop\projects\AspNetProjectCreatorCli\AspNetProjectCreatorCli\obj\Debug\net8.0\AspNetProjectCreatorCli.dll
+C:\Users\burak\Desktop\projects\AspNetProjectCreatorCli\AspNetProjectCreatorCli\obj\Debug\net8.0\refint\AspNetProjectCreatorCli.dll
+C:\Users\burak\Desktop\projects\AspNetProjectCreatorCli\AspNetProjectCreatorCli\obj\Debug\net8.0\AspNetProjectCreatorCli.pdb
+C:\Users\burak\Desktop\projects\AspNetProjectCreatorCli\AspNetProjectCreatorCli\obj\Debug\net8.0\AspNetProjectCreatorCli.genruntimeconfig.cache
+C:\Users\burak\Desktop\projects\AspNetProjectCreatorCli\AspNetProjectCreatorCli\obj\Debug\net8.0\ref\AspNetProjectCreatorCli.dll
+C:\Users\burak\Desktop\projects\AspNetProjectCreatorCli\AspNetProjectCreatorCli\bin\Debug\net8.0\Spectre.Console.dll
+C:\Users\burak\Desktop\projects\AspNetProjectCreatorCli\AspNetProjectCreatorCli\obj\Debug\net8.0\AspNetProjectCreatorCli.csproj.AssemblyReference.cache
+C:\Users\burak\Desktop\projects\AspNetProjectCreatorCli\AspNetProjectCreatorCli\obj\Debug\net8.0\AspNetPr.A79B9E5A.Up2Date
