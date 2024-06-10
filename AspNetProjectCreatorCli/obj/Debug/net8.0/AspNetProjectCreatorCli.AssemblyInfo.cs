@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("AspNetProjectCreatorCli")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("0.0.2.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("0.0.2+2f807ebb368d79b02f509e79d4d178bdecf54c08")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("0.0.2+e009eed4b47c2b5ae755f7efd3c6fcd3c87a5ab6")]
 [assembly: System.Reflection.AssemblyProductAttribute("AspNetProjectCreatorCli")]
 [assembly: System.Reflection.AssemblyTitleAttribute("AspNetProjectCreatorCli")]
 [assembly: System.Reflection.AssemblyVersionAttribute("0.0.2.0")]
