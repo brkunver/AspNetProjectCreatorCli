@@ -15,3 +15,4 @@ C:\Users\burak\Desktop\projects\AspNetProjectCreatorCli\AspNetProjectCreatorCli\
 C:\Users\burak\Desktop\projects\AspNetProjectCreatorCli\AspNetProjectCreatorCli\bin\Debug\net8.0\Spectre.Console.dll
 C:\Users\burak\Desktop\projects\AspNetProjectCreatorCli\AspNetProjectCreatorCli\obj\Debug\net8.0\AspNetProjectCreatorCli.csproj.AssemblyReference.cache
 C:\Users\burak\Desktop\projects\AspNetProjectCreatorCli\AspNetProjectCreatorCli\obj\Debug\net8.0\AspNetPr.A79B9E5A.Up2Date
+C:\Users\burak\Desktop\projects\AspNetProjectCreatorCli\AspNetProjectCreatorCli\obj\Debug\net8.0\AspNetProjectCreatorCli.sourcelink.json
