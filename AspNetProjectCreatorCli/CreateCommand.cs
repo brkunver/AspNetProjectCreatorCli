@@ -77,7 +77,7 @@ public static class CreateCommand
                 var directories = Directory.GetDirectories(libFolderPath);
                 foreach (var directory in directories)
                 {
-                    Directory.Delete(directory);
+                    Directory.Delete(directory,true);
                 }
             }
 
