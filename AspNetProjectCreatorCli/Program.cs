@@ -29,7 +29,8 @@ public static class Program
                 break;
             case "React + Web API":
                 var (useTypescript, useTailwindcss) = ReactAspPrompts.Prompt();
-                CreateCommand.CreateReactWebAPI(useTypescript, useTailwindcss);
+
+                CreateCommand.CreateReactWebAPI(AnsiConsole.Ask<string>("Enter project name: "), useTypescript, useTailwindcss);
                 break;
 
             default:
